@@ -1,0 +1,10 @@
+insert into tasks (name, email, text) values ('first', 'first@first.ru', 'first task');
+insert into tasks (name, email, text) values ('second', 'second@second.ru', 'second task');
+insert into tasks (name, email, text) values ('third', 'third@third.ru', 'third task');
+insert into tasks (name, email, text) values ('fourth', 'fourth@fourth.ru', 'fourth task');
+insert into tasks (name, email, text) values ('fifth', 'fifth@fifth.ru', 'fifth task');
+insert into tasks (name, email, text) values ('sixth', 'sixth@sixth.ru', 'sixth task');
+insert into tasks (name, email, text) values ('seventh', 'seventh@seventh.ru', 'seventh task');
+insert into tasks (name, email, text) values ('eighth', 'eighth@eighth.ru', 'eighth task');
+insert into tasks (name, email, text) values ('ninth', 'ninth@ninth.ru', 'ninth task');
+insert into tasks (name, email, text) values ('tenth', 'tenth@tenth.ru', 'tenth task');

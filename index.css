@@ -1,0 +1,21 @@
+.task_table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+}
+
+th, td, tr {
+    border: 1px solid black;
+    min-width: fit-content;
+}
+
+.login_button {
+    float: right;
+}
+
+.add_form {
+    margin-left: 30%;
+    text-align: left;
+    width: fit-content;
+}
